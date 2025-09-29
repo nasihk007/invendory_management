@@ -1,0 +1,12 @@
+{
+  "name": "Inventory Management System",
+  "short_name": "Inventory",
+  "description": "Professional inventory management system built with React, TypeScript, and Tailwind CSS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": []
+}
+
